@@ -1,0 +1,34 @@
+body {
+    background: url('/static/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
+
+.weather-icon {
+    width: 100px;
+    height: 100px;
+}
+
+.form-inline {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.btn-primary, .btn-secondary {
+    margin-top: 10px;
+}
+
+.text-center {
+    margin-top: 20px;
+}
